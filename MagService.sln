@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagService", "MagService\MagService.csproj", "{F4702484-BC70-48A9-BCCC-A2216B24BA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagService.UnitTests", "MagService.UnitTests\MagService.UnitTests.csproj", "{C3A12664-6FAD-450F-9D5B-1037C49A6E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4702484-BC70-48A9-BCCC-A2216B24BA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4702484-BC70-48A9-BCCC-A2216B24BA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4702484-BC70-48A9-BCCC-A2216B24BA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4702484-BC70-48A9-BCCC-A2216B24BA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A12664-6FAD-450F-9D5B-1037C49A6E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A12664-6FAD-450F-9D5B-1037C49A6E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A12664-6FAD-450F-9D5B-1037C49A6E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A12664-6FAD-450F-9D5B-1037C49A6E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://magservices.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MagService.UnitTests\\MagService.UnitTests.csproj
+		SccProjectName1 = MagService.UnitTests
+		SccLocalPath1 = MagService.UnitTests
+		SccProjectUniqueName2 = MagService\\MagService.csproj
+		SccProjectName2 = MagService
+		SccLocalPath2 = MagService
+	EndGlobalSection
+EndGlobal
